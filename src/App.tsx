@@ -19,6 +19,8 @@ import {
 } from 'lucide-react';
 
 // --- Types ---
+
+// basic layout for the app preview
 type Screen = 'home' | 'list' | 'detail' | 'cart' | 'profile';
 
 interface Product {
