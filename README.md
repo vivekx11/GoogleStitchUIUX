@@ -1,12 +1,11 @@
+👇
 
+🚀 ELIXIR WebApp
+📌 Overview
 
-## Run Locally
+This project is built using modern AI-powered tools to simplify UI design and development.
 
-**Prerequisites:**  Node.js
+🎨 UI Design created using Google Stitch
+💻 Code generated with Google AI Studio
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The goal of this project is to demonstrate how AI tools can speed up the development process and help build clean, responsive user interfaces.
