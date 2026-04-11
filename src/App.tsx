@@ -18,7 +18,7 @@ import {
   ChevronDown
 } from 'lucide-react';
 
-// --- Types ---
+// --- Types -----
 
 // basic layout for the app preview
 type Screen = 'home' | 'list' | 'detail' | 'cart' | 'profile';
