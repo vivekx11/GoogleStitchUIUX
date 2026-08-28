@@ -2,8 +2,6 @@
 -----------------
 🚀 ELIXIR WebApp
 -----------------
-📌 Overview
-
 This project is built using modern AI-powered tools to simplify UI design and development.
 ------------------------------------------------------------------------------------------
 
